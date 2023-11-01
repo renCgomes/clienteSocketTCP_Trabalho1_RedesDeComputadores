@@ -2,7 +2,8 @@ import socket
 import threading
 
 PORTA = 18000 # Porta do servidor
-ENDERECO = '127.0.0.1' # Endereço IP do servidor
+#ENDERECO = '10.20.30.8' # Endereço IP do servido
+ENDERECO = '127.0.0.1' 
 CONFIG = (ENDERECO, PORTA) # Tupla com as informações de endereço e porta para conectar o servidor  
 HEADER = 64 # Cabeçalho com número de bytes que a mensagem possui
 FORMATO = 'utf-8' # formatação da mensagem 
@@ -49,6 +50,6 @@ o servidor
 receive_thread = threading.Thread(target=receberMensagem)
 receive_thread.start()
 
-write_thread = threading.Thread(target=ESCREVA_PAAI)
+write_thread = threading.Thread(target=enviarMensagem)
 write_thread.start()
 
