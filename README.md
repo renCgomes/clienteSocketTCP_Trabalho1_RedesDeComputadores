@@ -9,4 +9,4 @@ Nesse repositório consta o cliente criado pelo nosso grupo e o servidor de test
 - Nycolas Felix - nycsfelix@poli.ufrj.br
 - Rebecca Gomes - 
 - Afonso Mateus - afonsomateus@poli.ufrj.br
-- Filipe Viana -
+- Filipe Viana - filipe.vianasilva@poli.ufrj.br
