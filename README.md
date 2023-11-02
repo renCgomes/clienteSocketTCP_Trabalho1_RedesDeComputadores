@@ -7,6 +7,6 @@ Nesse repositório consta o cliente criado pelo nosso grupo e o servidor de test
 
 - Renan Gomes - rencvlg@poli.ufrj.br
 - Nycolas Felix - nycsfelix@poli.ufrj.br
-- Rebecca Gomes - 
+- Rebecca Gomes - rebecca.gomsim@poli.ufrj.br
 - Afonso Mateus - afonsomateus@poli.ufrj.br
 - Filipe Viana - filipe.vianasilva@poli.ufrj.br
